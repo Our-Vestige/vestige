@@ -7,7 +7,7 @@
    .bgimg{
         background-color:#B3B3B3;
 		display:block;
-	    background-image:url('img.PNG');
+	    background-image:url('https://raw.githubusercontent.com/Our-Vestige/vestige/598009477fb4cc1458d6e28484d97bed6bfa7123/HtmlFiles/img.png');
         background-repeat:no-repeat; 
 		height:550px;
 		width:1920;
